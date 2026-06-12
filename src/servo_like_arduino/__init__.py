@@ -8,5 +8,6 @@ __all__ = [
     "Board",
     "Servo",
     "delay",
-    "millis"
+    "millis",
+    "__version__"
 ]
