@@ -15,3 +15,7 @@ while True:
     for angle in range(180, -1, -5):
         servo.write(angle)
         delay(5)
+
+# Clean up when done (optional)
+# servo.detach()
+# board.close()
