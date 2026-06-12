@@ -1,1 +1,2 @@
 pyfirmata2
+pyserial
