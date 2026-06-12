@@ -3,7 +3,7 @@ from servo_like_arduino import *
 Board('/dev/ttyUSB0')
 
 servo = Servo()
-servo.attach(9)
+servo.attach(6)
 
 while True:
     # Slow sweep
